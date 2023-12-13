@@ -9,4 +9,4 @@ Através do gráfico gerado pode-se notar que os casos de SRAG não especificado
 
 # OBS
 Não foi possível adicionar a tabela dos dados de 2020 ao github devido seu tamanho de 600MB que excede os 100MB permitidos. 
-Link para a tabela: [dataset de SRAG)https://opendatasus.saude.gov.br/dataset/srag-2020 
+Link para a tabela: [dataset de SRAG](https://opendatasus.saude.gov.br/dataset/srag-2020)
